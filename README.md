@@ -1,4 +1,4 @@
-About QuickScroll_指示滚动条
+About QuickScroll
 =================
 
 QuickScroll is a library aimed at creating similar scrolling experiences to the native Contacts app's People view. It has the same scrolling capabilities as the ListView's native *fastscroll*, but comes with a much a much more customizable design, two indicator styles and an allways visible scrollbar. The two most common modes are *popup* and *indicator*. Works seamlessly with ListView and ExpandableListView. Check out the demo application, available in the <a href="https://play.google.com/store/apps/details?id=com.andraskindler.quickscrollsample" target="blank_">Play Store</a>.
